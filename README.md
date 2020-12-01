@@ -7,7 +7,7 @@ Getting your PC ready for Java Development
 - 4 Core CPU
 - Windows 10, 64 bit
 
-## Java Development Tools
+## Java / Kotlin Development Tools
 
 **[Download IntelliJ IDEA   Community](https://www.jetbrains.com/idea/download/#section=windows)** and install.
  
