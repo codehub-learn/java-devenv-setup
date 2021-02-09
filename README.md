@@ -12,9 +12,8 @@ Getting your workstation ready for Java development.
 
 ## Java Development Tools
 1. Java Development Toolkit, download and install the **[JDK from Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)**.
-2. Maven, download **[Maven](https://maven.apache.org/download.cgi) and follow the **[instructions](https://maven.apache.org/install.html).
+2. Maven, download **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**.
 
 ## Other tools
-1. **[Github account] (https://github.com/join)**
-1. **[Git Version Control] (https://git-scm.com/downloads)**
-
+1. Git, download and install **[Git Version Control] (https://git-scm.com/downloads)**
+2. Create a **[Github account] (https://github.com/join)**
