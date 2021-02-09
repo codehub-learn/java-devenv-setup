@@ -2,7 +2,7 @@
 
 Getting your PC ready for Java Development
 ## PC's specs
-- 8 GB RAM
+- 12-16 GB RAM
 - 128 GB Storage (SSD would be preferrable)
 - 4 Core CPU
 - Windows 10, 64 bit
@@ -13,8 +13,7 @@ Getting your PC ready for Java Development
  
 Even if it is not mandatory, you can also download the **[SDK from Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)**. Download and install the Windows x64 Installer.
 
-## Other development tools
-
-1. **[Github account](https://github.com/join)**
-1. **[Git Version Control](https://git-scm.com/downloads)**
+## Other tools
+1. **[Github account] (https://github.com/join)**
+1. **[Git Version Control] (https://git-scm.com/downloads)**
 
