@@ -1,14 +1,13 @@
 # Hardware and software requirements for Java development
 
-Getting your PC ready for Java Development
+Getting your workstation ready for Java development.
 ## PC's specs
 - 12-16 GB RAM
 - 128 GB Storage (SSD would be preferrable)
 - 4 Core CPU
 - Windows 10, 64 bit
 
-## Java Development Tools
-
+## Java Development IDE
 **[Download IntelliJ IDEA   Community](https://www.jetbrains.com/idea/download/#section=windows)** and install.
  
 Even if it is not mandatory, you can also download the **[SDK from Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)**. Download and install the Windows x64 Installer.
