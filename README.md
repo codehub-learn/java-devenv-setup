@@ -3,7 +3,7 @@
 Getting your workstation ready for Java development.
 ## Workstation specifications
 - Windows 10 or Linux or MacOS, 64 bit
-- 12-16 GB RAM
+- RAM, 8GB required, 16GB preferable
 - 128 GB Storage (SSD would be preferrable)
 - 4 Core CPU
 
