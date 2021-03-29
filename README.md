@@ -15,6 +15,6 @@ Getting your workstation ready for Java development.
 2. Maven, download **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. Through Maven dependecy management mechanism, we will download every library needed in our projects. 
 
 ## Other tools
-1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**.
+1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
 2. Create a **[Github account](https://github.com/join)**.
 
