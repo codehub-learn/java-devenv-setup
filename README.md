@@ -11,7 +11,7 @@ Getting your workstation ready for Java development.
 **[Download IntelliJ IDEA   Community](https://www.jetbrains.com/idea/download/#section=windows)** and install.
 
 ## Java Development Tools
-1. Java Development Toolkit, download and install the **[JDK](https://adoptopenjdk.net/)**.
+1. Java Development Toolkit, download and install the **[JDK 11](https://adoptopenjdk.net/)**.
 2. Maven, download **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. Through Maven dependecy management mechanism, we will download every library needed in our projects. 
 
 ## Other tools
